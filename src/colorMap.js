@@ -1,0 +1,16 @@
+export default {
+  blue50: '#5596f6',
+  blue60: '#2a7bf4',
+  blue70: '#2a5ca7',
+  green60: '#74bd29',
+  green70: '#6a9440',
+  grey40: '#cccccc',
+  grey70: '#666666',
+  grey80: '#333333',
+  red50: '#e85e23',
+  red60: '#cb4c15',
+  red70: '#9f370a',
+  yellow50: '#fcd33f',
+  yellow60: '#e6b60d',
+  yellow70: '#cf8e10',
+}
